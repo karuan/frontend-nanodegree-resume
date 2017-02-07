@@ -47,6 +47,7 @@ var work = {
 
 var education = {
    "schools": [
+/**
       { "name": "Carnegie Mellon University",
          "datesAttended": "2016 - Present",
          "location": "Pittsburgh, Pennsylvania, US",
@@ -54,7 +55,16 @@ var education = {
          "major": "Computer Science",
          "minor": "Mathematics",
          "url": "www.cmu.edua"
-      }      
+      },
+   { "name": "Montgomery Blair High School",
+         "datesAttended": "2012 - 2016",
+         "location": "Silver Spring, Maryland, US",
+         "degree": "High School Diploma",
+         "coursework": "Computer Science",
+         "minor": "Mathematics",
+         "url": "www.cmu.edua"
+      }
+   **/   
    ],
    "onlineCourses": [
      { "school": "Udacity",
