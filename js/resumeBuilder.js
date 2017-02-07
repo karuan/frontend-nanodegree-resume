@@ -81,6 +81,15 @@ var projects = {
          "url": "https://github.com/karuan/pebbleStudyTracker"
       } 
 
+,
+       {
+         "title": "Space Station VR [C#, Blender], Game Creation Society",
+         "datesWorked": "Fall 2016",
+         "description": "Worked with a team to create an interactive space station puzzle game compatible with the Google Cardboard using Unity with scripting in C#", 
+         "images": ["images/galapagos.png"],
+         "url": "https://play.google.com/store/apps/details?id=com.garncarz.galapagos"
+      } 
+
 
 
 
