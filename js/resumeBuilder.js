@@ -4,11 +4,11 @@ var bio = {
    "contacts": {
       "email": "kruan@andrew.cmu.edu",
       "github": "karuan",
-      "twitter": "NA",
+      "twitter": "[not available]",
       "location": "Pittsburgh, Pennsylvania, United States"
    },
    "picture": "images/me.png",
-   "welcomeMessage": "I'm currently a student at Carnegie Mellon University. Thanks for stopping by!",
+   "welcomeMessage": "I'm currently a freshman Computer Science student at Carnegie Mellon University. Thanks for stopping by!",
    "skills": ["Java", "python", "Software Development", "C/C++", "Unity", "HTML5/CSS/JavaScript"]
 };
 
