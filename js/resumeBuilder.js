@@ -14,14 +14,34 @@ var bio = {
 
 var work = {
    "jobs": [
-      {
+{
+         "employer": "Carnegie Mellon Housing Services",
+         "title": "Desk Service Assistant",
+         "location": "Pittsburgh, PA",
+         "datesWorked": "January 2017 - August 2015",
+         "description": "Part time student staff working at residence house service desks, dunctioning as an entrance checkpoint and a customer serice representative for Housing Services."
+      },     
+
+
+ {
          "employer": "Children's National Medical Center",
          "title": "Research Assistant",
          "location": "Washington, DC",
          "datesWorked": "June 2015 - August 2015",
-         "description": "I was hired to research the effects of NF1 deletion on mice, using mosaic analysis with double markers, or"+
-            "the MADM, technique."
+         "description": "I was hired to research the effects of deletion in the NF1 cancerous gene through use of mosaic analysis with double markers (MADM) technique using ImageJ and Excel."
       }
+,
+ {
+         "employer": "Youth Building Bridges",
+         "title": "English Tutor",
+         "location": "Gansu, China",
+         "datesWorked": "June 2014 - August 2014",
+         "description": "Led summer classes for underpriviledged kids in their core curriculum with a focus on teaching English." 
+
+      }
+ 
+
+
    ]
 };
 
