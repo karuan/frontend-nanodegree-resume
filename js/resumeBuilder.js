@@ -1,13 +1,13 @@
 var bio = {
    "name": "Kathleen Ruan",
-   "role": "Student, Programmer, Hobby Artist, whatevers",
+   "role": "College Student, Programmer, Software Developer, Hobby Artist, whatevers",
    "contacts": {
       "email": "kruan@andrew.cmu.edu",
       "github": "karuan",
       "twitter": "[not available]",
       "location": "Pittsburgh, Pennsylvania, United States"
    },
-   "picture": "images/me.png",
+   "picture": "images/kruan.png",
    "welcomeMessage": "I'm currently a freshman Computer Science student at Carnegie Mellon University. Thanks for stopping by!",
    "skills": ["Java", "python", "Software Development", "C/C++", "Unity", "HTML5/CSS/JavaScript"]
 };
