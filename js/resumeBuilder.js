@@ -77,7 +77,7 @@ var projects = {
          "title": "Pebble Study Tracker [Javascript, C], Hackathon",
          "datesWorked": "Spring 2017",
          "description": "Created a pebble app requesting and sending input from mobile device to watch using JavaScript messaging, and programming in C to store assignment names and blocks of time studied to persistent storage.",
-         "images": "images/pebblePic.png",
+         "images": ["images/pebble1.png","images/pebble2.png"],
          "url": "https://github.com/karuan/pebbleStudyTracker"
       } 
 
